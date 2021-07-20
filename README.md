@@ -5,7 +5,7 @@
     * Reading/ writing to CSV/ JSON/ Excel documents
     * Use of Juypter Notebook to visualize data analysis
     * Numerical and image manipulation with Numpy
-    * 
+    * ...
 
 
 ## 💭 Thoughts so far
