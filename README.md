@@ -1,12 +1,13 @@
 ## 🐍 Python-intermediate
 
-- Chapters 14, 15, 16... from [Udemy course](https://www.udemy.com/course/the-python-mega-course/)
+- Chapters 14, 15, 16, 22 and 23 from [Udemy course](https://www.udemy.com/course/the-python-mega-course/)
 - Moves beyond basic syntax and into how the language is often used in the real world, including:
     * Reading/ writing to CSV/ JSON/ Excel documents
     * Use of Juypter Notebook to visualize data analysis
     * Numerical and image manipulation with Numpy
     * postgreSQL and SQLite3 with using python to write the ORM
-    * ...
+    * Tkinter to create a simple GUI widget based application
+
 
 
 ## 💭 Thoughts so far
